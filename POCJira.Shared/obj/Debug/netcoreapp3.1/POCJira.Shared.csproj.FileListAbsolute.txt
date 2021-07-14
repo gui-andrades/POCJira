@@ -1,0 +1,9 @@
+C:\POCJira\POCJira.Shared\bin\Debug\netcoreapp3.1\POCJira.Shared.deps.json
+C:\POCJira\POCJira.Shared\bin\Debug\netcoreapp3.1\POCJira.Shared.dll
+C:\POCJira\POCJira.Shared\bin\Debug\netcoreapp3.1\POCJira.Shared.pdb
+C:\POCJira\POCJira.Shared\obj\Debug\netcoreapp3.1\POCJira.Shared.csprojAssemblyReference.cache
+C:\POCJira\POCJira.Shared\obj\Debug\netcoreapp3.1\POCJira.Shared.AssemblyInfoInputs.cache
+C:\POCJira\POCJira.Shared\obj\Debug\netcoreapp3.1\POCJira.Shared.AssemblyInfo.cs
+C:\POCJira\POCJira.Shared\obj\Debug\netcoreapp3.1\POCJira.Shared.csproj.CoreCompileInputs.cache
+C:\POCJira\POCJira.Shared\obj\Debug\netcoreapp3.1\POCJira.Shared.dll
+C:\POCJira\POCJira.Shared\obj\Debug\netcoreapp3.1\POCJira.Shared.pdb

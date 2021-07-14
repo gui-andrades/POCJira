@@ -1,0 +1,14 @@
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Domain.deps.json
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Domain.dll
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Domain.pdb
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Repository.dll
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Repository.pdb
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.csprojAssemblyReference.cache
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.AssemblyInfoInputs.cache
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.AssemblyInfo.cs
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.csproj.CoreCompileInputs.cache
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.csproj.CopyComplete
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.dll
+C:\POCJira\POCJira.Domain\obj\Debug\netcoreapp3.1\POCJira.Domain.pdb
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Shared.dll
+C:\POCJira\POCJira.Domain\bin\Debug\netcoreapp3.1\POCJira.Shared.pdb

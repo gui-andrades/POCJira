@@ -1,0 +1,12 @@
+C:\POCJira\POCJira.Repository\bin\Debug\netcoreapp3.1\POCJira.Repository.deps.json
+C:\POCJira\POCJira.Repository\bin\Debug\netcoreapp3.1\POCJira.Repository.dll
+C:\POCJira\POCJira.Repository\bin\Debug\netcoreapp3.1\POCJira.Repository.pdb
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.csprojAssemblyReference.cache
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.AssemblyInfoInputs.cache
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.AssemblyInfo.cs
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.csproj.CoreCompileInputs.cache
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.dll
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.pdb
+C:\POCJira\POCJira.Repository\bin\Debug\netcoreapp3.1\POCJira.Shared.dll
+C:\POCJira\POCJira.Repository\bin\Debug\netcoreapp3.1\POCJira.Shared.pdb
+C:\POCJira\POCJira.Repository\obj\Debug\netcoreapp3.1\POCJira.Repository.csproj.CopyComplete
